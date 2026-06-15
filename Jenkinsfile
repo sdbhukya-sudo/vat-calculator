@@ -7,7 +7,7 @@ pipeline {
         //       git url: 'https://github.com/sdbhukya-sudo/vat-calculator.git',
         //           branch: 'main'
         //     }
-        // }
+         }
         
         stage('Run Tests') {
             steps {
